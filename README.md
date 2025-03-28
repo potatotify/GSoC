@@ -4,6 +4,8 @@ Welcome to cBioPortal's Google Summer of Code (GSoC) 👋! GSoC is a great progr
 
 ## About Google Summer of Code
 
+Fix is here
+
 [Google Summer of Code<sup>TM</sup>](https://summerofcode.withgoogle.com/) is a summer program that offers stipends to develop software for open source projects.
 
 ## Project ideas
